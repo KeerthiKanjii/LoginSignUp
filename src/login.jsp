@@ -7,14 +7,14 @@
 <title>LoginPage</title>
 </head>
 <body>
-<!-- Sign up form -->
+<!-- Login up form -->
 		<section class="signup">
 			<div class="container">
 				<div class="signup-content">
 					<div class="signup-form">
 						<h2 class="form-title">Sign up</h2>
 					
-						<form method="" action="" class="register-form"
+						<form method="Login" action="" class="register-form"
 				id="register-form">
 							<div class="form-group">
 								<label for="name"><i
